@@ -35,4 +35,7 @@ Desigualdad geográfica: Las regiones con mayor desarrollo económico (América 
 Industria tecnológica dominante: Los trabajos relacionados con redes sociales y tecnología generan los mayores ingresos, lo que resalta la transformación del mercado laboral hacia sectores digitales.
 Necesidad de diversidad: La sobrerrepresentación de ciertas razas y géneros sugiere que futuras encuestas deben trabajar en ser más inclusivas para obtener una visión más equilibrada.
 Este tablero brinda información clave para entender las dinámicas salariales globales y destaca la influencia de factores como la educación, la geografía y la industria en la remuneración laboral.
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/41fe72af-2bc6-4c86-a06e-a328ea0af239" />
+
+
 <img width="694" alt="image" src="https://github.com/user-attachments/assets/2de5872b-81e7-4973-8338-05280096805d" />
